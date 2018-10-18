@@ -2,7 +2,7 @@
 html {height:100%;}
 
 body {
-   background: url(/web/20110825030047im_/http://print.km.ua/images/back.png) repeat-x top;
+   background: url(/img/back.png) repeat-x top;
    font-family: Georgia, serif; 
 	font-size:13px; 
    color:#13476d; 
@@ -16,14 +16,15 @@ body {
 }
 
 #content {
-    background : url(/web/20110825030047im_/http://print.km.ua/images/header_page.gif) no-repeat top;
+    background : url(/img/header_page.gif) no-repeat top;
 	 width: 1272px;
 }
 
 
 #content_subpage {
-    background : url(/web/20110825030047im_/http://print.km.ua/images/back_subpage.gif) no-repeat top;
-	 width: 1272px;
+    background : url(/img/back_subpage.gif) no-repeat top;
+	height: 749px;
+	width: 1272px;
 }
 
 
@@ -84,7 +85,7 @@ padding-left: 15px;
 
 margin: 10px;
 margin-right: 20px;
-background : url(/web/20110825030047im_/http://print.km.ua/images/login_area.gif) no-repeat top;
+background : url(/img/login_area.gif) no-repeat top;
 }
 
 #ul_login
@@ -115,7 +116,7 @@ padding-top: 20px;
 }
 
 #menu_links1 {
-	background : url(/web/20110825030047im_/http://print.km.ua/css/images/s_10_06.gif) no-repeat;
+
 	padding-top: 5px;
 	width: 110px;
 }
@@ -131,7 +132,7 @@ padding-top: 20px;
 #bottom {
     padding-left: 30px;
 	padding-right: 30px;
-    background : url(/web/20110825030047im_/http://print.km.ua/css/images/index_17.gif) repeat-x;
+
 }
 
 
@@ -176,7 +177,7 @@ a:hover	{
 	font-family:Times New Roman; 
 	font-size:24px; 
     color:#ADADAD; 
-	background : url(/web/20110825030047im_/http://print.km.ua/css/images/index_12.gif) bottom repeat-x;
+
 }
 
 .text {
@@ -214,7 +215,7 @@ li{
    
 }
 
-#footer {   background : url(/web/20110825030047im_/http://print.km.ua/images/footer_back.png) repeat-x ;   
+#footer {   background : url(/img/footer_back.png) repeat-x ;
 height: 55px;
  padding-top: 20px;
  padding-right: 20px;
